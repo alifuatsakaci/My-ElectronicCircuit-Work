@@ -1,1 +1,2 @@
 # My-ElectronicCircuit-Work
+This repository contains my lab work for the Electronic Circuits course during my 2nd year Electronics and Communicaiton Engineering studies. It includes Laboratory reports which I completed with my group mate. Through these labs, I gained experience on using oscilloscope, voltage generator, signal generator and other laboratory instruments like bread-board and physical resistors and capacitors. 
